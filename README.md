@@ -7,7 +7,17 @@
 </div>
 
 ## Hi there, I'm Artem 👋 
-stay calm, write code and listen to Depeche Mode
+stay calm, write some code and listen to Depeche Mode
+</div>
+
+
+### :man_technologist: About Me :
+- :lotus_position_man: Studied iOS development at Yandex Practicum
+- :video_game: Playing since 1997
+- :oncoming_automobile: Passionate driver
+
+### :hammer_and_wrench: Languages and Tools :
+<img src="https://skillicons.dev/icons?i=git,swift,postman,figma,stackoverflow,apple" />
 
 <!--
 **Depechist/Depechist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
