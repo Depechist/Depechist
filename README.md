@@ -12,6 +12,7 @@ stay calm, write some code and listen to Depeche Mode
 
 
 ### :man_technologist: About Me :
+- :iphone: iOS developer
 - :lotus_position_man: Studied iOS development at Yandex Practicum
 - :video_game: Playing since 1997
 - :oncoming_automobile: Passionate driver
